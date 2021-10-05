@@ -29,8 +29,7 @@ def parse_args():
     )
     parser.add_argument("-p",
                         "--path",
-                        help="Path to source graph file in .clq format or folder with graphs "
-                                    "(for multiple processing)",
+                        help="Path to source graph file in .clq format",
                         default="DIMACS_all_ascii/brock200_1.clq",
                         type=str)
     parser.add_argument('-m',
