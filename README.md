@@ -2,4 +2,4 @@
 
 This repository contains the approach to solve Max Clique Problem using cplex optimizer
 
-Run `python main --help` for usage details
+Run `python max_clique.py --help` for usage details
